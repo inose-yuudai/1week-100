@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82ad1a62-b4ed-41b4-8112-e8bc2e4e7aa8" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/02/02e9d55dd7c1767df556e0176beeb634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/06/069573604373e5d2b956238abc8c9811" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/07/077bed1df0ec9e8cd09080610bcf7569" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/16/1659877369a78a38cebca701612e8ead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/1a/1a2982f98507833c93fc4a8881250186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/1e/1e9c14cae75aba98533827415e4f228a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/1f/1fae5b02c63efd8f6102693391e17fd2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/31/314bfb85915488bdf8f2cd88fbcf42ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/31/31f74a541a7a44ba56218f3f7161f902" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/33/3371be2d8880514820dbba5e0343f2a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/3e/3ee3bab115bd4367b124a641bf69eb7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/3f/3fb882ddcde87a6068f3ce1594b866a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/44/4491b0792179a8818585f7510a9a178f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/46/469a5b2be0a2f97762ef354e2261c0e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/51/512101f41de043f508596aa1efeb436f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/51/51fcc7e27392f28df0f933679bf2a145" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/5d/5d195a84a794be07b7ea992f26b9ddfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/77/77799bfb3454a318fc8432d71bd7568a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/7b/7b35bc262d000b1d2dc93431df4da09d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/7f/7fe2c3bb1d889abbd8b882a18c9acdaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/84/849b981e458f51778e6a0b13eb4caf60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/85/852f1e7de4d4769b88d70ff03ef37e80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/90/901c0e95eefd26dd720c09986cbafcad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/90/903a2c2188c5c8ab84f044769b734d3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/91/9152564ed39e0723bed91867913320cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/93/93e67efa80b9e436fa020e8d384e7eec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/96/9640f08c8d50bfa53a1e3253511e9c9b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/97/97a9c224638fc5ce914daf26d827075e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/97/97adaeb9ac1b763a15a9cec490120e86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/a3/a3ab68bae3788792d54b7a7f4071286d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/a4/a4d98254b73753af8ac345c9d0f824ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/aa/aa7a431e90898e7eb6479d331f1c9d7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/aa/aafdf3b68d7e62609b8aca4b8df188f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/b8/b875eb6aa93491e99da261a361a9cdc5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/bf/bfb7889b53359191b4f52b7693b6df7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/cd/cd07ef7d420e14d36a53b2c41b40219c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/d7/d79b78d1fc153df1980830235642f68e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/de/de4a80373b3ac312dfbe77da09d81b14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/e0/e0cc34e8a9a9bf99b47fa918b86fd81b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/e1/e1259306f3c3312d78987f869a5d6bae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/e4/e48f3027b0b873f09e7c735cfd712c25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/e7/e70fc8cfc4e197961895a0d150a194d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/e7/e7729ebbb0b14d6bf545652a8a3a43b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/e9/e9391d96b55b752460070b01c1a58342" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/ed/ed9e0d58d7cb23dd299100eef5d11ce5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/ee/eee4f9e53a058bef0f2ef8b50b3384bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/f4/f4b62f7698f677696ed1369c041d2b34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Artifacts/f8/f88873dd66049a10699640a231c1856f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/Bee/backend1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Library/ilpp.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker1-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker1-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/AssetImportWorker3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Logs/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.CollabProxy.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.CollabProxy.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.EditorCoroutines.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.EditorCoroutines.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.Performance.Profile-Analyzer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.Performance.Profile-Analyzer.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.PlasticSCM.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.PlasticSCM.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.Rider.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.Rider.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.Settings.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.Settings.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.TestTools.CodeCoverage.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.TestTools.CodeCoverage.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.TextMeshPro.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.TextMeshPro.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.TextMeshPro.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.TextMeshPro.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.Timeline.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.Timeline.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.Timeline.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.Timeline.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VSCode.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VSCode.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Core.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Core.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Flow.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Flow.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Flow.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Flow.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.SettingsProvider.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.SettingsProvider.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Shared.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.Shared.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.State.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.State.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.State.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualScripting.State.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/Unity.VisualStudio.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/Unity.VisualStudio.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/UnityEditor.TestRunner.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/UnityEditor.TestRunner.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/UnityEditor.UI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/UnityEditor.UI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/UnityEngine.TestRunner.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/UnityEngine.TestRunner.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/UnityEngine.UI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/UnityEngine.UI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Shader/day1Shader.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Shader/day1Shader.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PointDisPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gF6mSOLixeLNXfO2kuNFoviNcS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\inobe\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\inobe\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\inobe\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Unity エディターにアタッチ.Unity エディターにアタッチ">
+    <configuration name="ユニットテスト (バッチモード)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\unity\1week-100\Day2Struct -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\unity\1week-100\Day2Struct" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity の起動" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\unity\1week-100\Day2Struct -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\unity\1week-100\Day2Struct" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity エディターにアタッチして再生" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity エディターにアタッチ" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="82ad1a62-b4ed-41b4-8112-e8bc2e4e7aa8" name="変更" comment="" />
+      <created>1715281137792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715281137792</updated>
+      <workItem from="1715281138223" duration="4512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
